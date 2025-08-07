@@ -2,9 +2,8 @@
 <p>A organização TWtechnologies se refere ao grupo do projeto integrador da FATEC de Registro formado pelos alunos do 3°semestre: <ul>
     <li>Afonso Luiz Soares Batista</li>
     <li>José Vitor Ferro Teixeira</li>
-    <li>Matheus Ferrari Abrahão</li>
+    <li>Isabele Leticia Gonçalves Queiroz</li>
     <li>Ricardo Alexandre Franca Davis</li>
-    <li>Vitor Mendes Hiraide</li>
   </ul> </p>
 <!--
 
