@@ -1,9 +1,10 @@
 <h1 align="center">TWtechnologies</h1>
-<p>A organização TWtechnologies se refere ao grupo do projeto integrador da FATEC de Registro formado pelos alunos do 3°semestre: <ul>
+<p>A organização TWtechnologies se refere ao grupo do projeto integrador da FATEC de Registro formado pelos alunos do 4°semestre: <ul>
     <li>Afonso Luiz Soares Batista</li>
     <li>José Vitor Ferro Teixeira</li>
     <li>Isabele Leticia Gonçalves Queiroz</li>
     <li>Ricardo Alexandre Franca Davis</li>
+    <li>Yan Gabriel de Oliveira Albuquerque</li>
   </ul> </p>
 <!--
 
