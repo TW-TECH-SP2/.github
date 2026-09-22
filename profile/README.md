@@ -1,5 +1,8 @@
-# TWtechnologies
+<p align="center">
+  <img src="https://infracow-landing-page.vercel.app/images/wt_logo_small.svg" alt="TWtechnologies" width="120">
+</p>
 
+# TWtechnologies
 
 Somos a **TWtechnologies**, uma equipe formada por cinco estudantes da **FATEC de Registro**, do curso de **Desenvolvimento de Software Multiplataforma**.
 
@@ -20,13 +23,13 @@ Nosso principal projeto é o **InfraCow**, uma solução que integra **aplicaç�
 ### Repositórios
 
 📱 **Mobile** — Aplicação mobile do InfraCow
-[GitHub]([LINK_DO_REPOSITORIO_MOBILE](https://github.com/TW-TECH-SP2/InfraCow-Mobile))
+[GitHub](https://github.com/TW-TECH-SP2/InfraCow-Mobile)
 
 🔌 **IoT** — Integração com o dispositivo e sensor termográfico
-[GitHub]([LINK_DO_REPOSITORIO_IOT](https://github.com/TW-TECH-SP2/InfraCow-IOT))
+[GitHub](https://github.com/TW-TECH-SP2/InfraCow-IOT)
 
 ⚙️ **API** — Backend e serviços da aplicação
-[GitHub]([LINK_DO_REPOSITORIO_API](https://github.com/TW-TECH-SP2/InfraCow-API))
+[GitHub](https://github.com/TW-TECH-SP2/InfraCow-API)
 
 🌐 **Landing Page** — Página institucional do InfraCow
-[Visitar repositório]([LINK_DO_REPOSITORIO_LANDING_PAGE](https://github.com/TW-TECH-SP2/landing-page))
+[GitHub](https://github.com/TW-TECH-SP2/landing-page)
