@@ -1,18 +1,32 @@
-<h1 align="center">TWtechnologies</h1>
-<p>A organização TWtechnologies se refere ao grupo do projeto integrador da FATEC de Registro formado pelos alunos do 5°semestre: <ul>
-    <li>Afonso Luiz Soares Batista</li>
-    <li>José Vitor Ferro Teixeira</li>
-    <li>Isabele Leticia Gonçalves Queiroz</li>
-    <li>Ricardo Alexandre Franca Davis</li>
-    <li>Yan Gabriel de Oliveira Albuquerque</li>
-  </ul> </p>
-<!--
+# TWtechnologies
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Somos a **TWtechnologies**, uma equipe formada por cinco estudantes da **FATEC de Registro**, do curso de **Desenvolvimento de Software Multiplataforma**.
+
+Nossa equipe desenvolve soluções tecnológicas como parte do **Projeto Integrador**, unindo desenvolvimento de software, IoT e inovação para solucionar problemas reais.
+
+## Equipe
+
+* **Afonso Luiz Soares Batista** — Squad Leader & DevOps
+* **Isabele Letícia G. Queiroz** — Front-end & Creative Design
+* **Yan Gabriel de O. Albuquerque** — IoT Developer
+* **José Vitor Ferro Teixeira** — Writer
+* **Ricardo Alexandre Franca Davis** — Back-end Developer
+
+## InfraCow
+
+Nosso principal projeto é o **InfraCow**, uma solução que integra **aplicação mobile, IoT e análise de dados** para auxiliar na triagem de possíveis casos de Doença Respiratória Bovina (DRB).
+
+### Repositórios
+
+📱 **Mobile** — Aplicação mobile do InfraCow
+[GitHub]([LINK_DO_REPOSITORIO_MOBILE](https://github.com/TW-TECH-SP2/InfraCow-Mobile))
+
+🔌 **IoT** — Integração com o dispositivo e sensor termográfico
+[GitHub]([LINK_DO_REPOSITORIO_IOT](https://github.com/TW-TECH-SP2/InfraCow-IOT))
+
+⚙️ **API** — Backend e serviços da aplicação
+[GitHub]([LINK_DO_REPOSITORIO_API](https://github.com/TW-TECH-SP2/InfraCow-API))
+
+🌐 **Landing Page** — Página institucional do InfraCow
+[Visitar repositório]([LINK_DO_REPOSITORIO_LANDING_PAGE](https://github.com/TW-TECH-SP2/landing-page))
